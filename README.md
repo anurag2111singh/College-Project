@@ -28,3 +28,6 @@ VIII. Mobile Applications: Smartphone-based apps capture leaf images and use ML 
 IX. Multi-Sensor IoT Systems: These integrate environmental and image-based data for comprehensive health monitoring. Challenges involve sensor calibration and real-time data synchronization.
 
 X. Cloud-Based Systems: Centralized platforms analyze large datasets from IoT sensors and images. Scalability is an advantage, but latency and bandwidth issues affect real-time disease detection.
+
+# The First Sample User Interface for the project made with Streamlit is provided below :-
+https://tomato-disease-app-group07.streamlit.app/
